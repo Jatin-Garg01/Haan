@@ -1,6 +1,1 @@
-hii
-<<<<<<< HEAD
-I belong from malout
-=======
-My name is Jatin Garg
->>>>>>> 4b99f3b87ec62adb6605f16f9c0c79d0935af2a5
+helloo
